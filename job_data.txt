@@ -1,0 +1,49 @@
+2|Data Scientist|DataAnalytics Inc|New York|135000|Master in Data Science, Python, ML|Analyze large datasets and build predictive models|3
+3|Frontend Developer|WebDesign Co|Los Angeles|95000|HTML, CSS, JavaScript, React|Create responsive user interfaces|4
+4|Backend Developer|CloudSystems|Seattle|110000|Java, Spring Boot, REST APIs|Develop server-side applications|6
+5|DevOps Engineer|Infrastructure Pro|Austin|125000|AWS, Docker, Kubernetes, CI/CD|Manage cloud infrastructure and deployment|2
+6|Mobile App Developer|AppCrafters|Chicago|105000|iOS/Android, Swift/Kotlin|Develop mobile applications|4
+7|UX/UI Designer|Design Studio|Miami|85000|Figma, Adobe XD, Prototyping|Design user experiences and interfaces|3
+8|Product Manager|ProductLabs|Boston|140000|MBA, Agile, Product Strategy|Lead product development and strategy|2
+9|QA Engineer|Quality First|Denver|80000|Testing methodologies, Selenium|Ensure software quality through testing|5
+10|System Administrator|IT Services|Phoenix|75000|Linux, Windows, Networking|Maintain computer systems and networks|4
+11|Cybersecurity Analyst|SecureNet|Washington DC|115000|Security protocols, Risk assessment|Protect systems from cyber threats|3
+12|Database Administrator|DataStorage Corp|Dallas|95000|SQL, Oracle, Database management|Manage and optimize databases|4
+13|Business Analyst|Consulting Plus|Atlanta|90000|Business analysis, Documentation|Analyze business processes and requirements|6
+14|Marketing Manager|BrandBoost|San Diego|100000|Digital marketing, SEO/SEM|Develop marketing strategies and campaigns|3
+15|Sales Representative|SalesForce Pro|Houston|70000|B2B sales, CRM, Negotiation|Drive sales and build client relationships|8
+16|Content Writer|Content Hub|Portland|65000|Content creation, SEO, Copywriting|Create engaging content for various platforms|5
+17|Graphic Designer|Creative Arts|Las Vegas|70000|Adobe Creative Suite, Branding|Design visual content and graphics|4
+18|HR Manager|People First|Philadelphia|95000|HR policies, Recruitment, Compliance|Manage human resources and recruitment|2
+19|Financial Analyst|Finance Experts|Minneapolis|85000|Financial modeling, Excel, Analysis|Analyze financial data and trends|5
+20|Project Manager|Project Success|Detroit|110000|PMP, Agile, Leadership|Manage projects and teams|4
+21|Network Engineer|Network Solutions|Cleveland|90000|Cisco, Networking protocols|Design and maintain network infrastructure|3
+22|Cloud Architect|Cloud Native|Charlotte|150000|AWS/Azure, Architecture design|Design cloud solutions and architecture|2
+23|AI/ML Engineer|AI Innovations|Raleigh|145000|Python, TensorFlow, Deep Learning|Develop AI and machine learning solutions|3
+24|Blockchain Developer|CryptoTech|Salt Lake City|130000|Solidity, Ethereum, Smart contracts|Develop blockchain applications|2
+25|IoT Developer|Smart Devices|Kansas City|115000|IoT protocols, Embedded systems|Develop Internet of Things solutions|4
+26|Full Stack Developer|Code Complete|Columbus|105000|MERN/MEAN stack, Full development|Develop complete web applications|6
+27|Technical Writer|Documentation Pro|Indianapolis|75000|Technical writing, Documentation|Create technical documentation|5
+28|SEO Specialist|Search Masters|Milwaukee|70000|SEO, Analytics, Content optimization|Optimize websites for search engines|3
+29|Social Media Manager|Social Buzz|Nashville|65000|Social media, Content strategy|Manage social media presence|4
+30|Data Analyst|Data Insights|Oklahoma City|80000|SQL, Excel, Data visualization|Analyze data and create reports|7
+31|Research Scientist|R&D Labs|Louisville|125000|Research methodology, Analysis|Conduct research and development|2
+32|Quality Manager|Quality Assurance|Memphis|95000|Quality control, ISO standards|Ensure product and service quality|3
+33|Operations Manager|Operations Excellence|New Orleans|105000|Operations, Process improvement|Manage operational processes|4
+34|Customer Success Manager|Client First|Jacksonville|85000|Customer service, Relationship management|Ensure customer satisfaction|6
+35|Technical Support|Support Central|Virginia Beach|60000|Technical troubleshooting, Support|Provide technical assistance|8
+36|Software Architect|Architecture Firm|Atlanta|160000|System design, Architecture patterns|Design software architecture|2
+37|Security Engineer|Security First|Miami|120000|Security frameworks, Penetration testing|Implement security measures|3
+38|Big Data Engineer|Data Lake Corp|Tampa|135000|Hadoop, Spark, Big data tools|Process and analyze large datasets|4
+39|Game Developer|Game Studio|Orlando|95000|Unity, Unreal Engine, C++|Develop video games|5
+40|AR/VR Developer|Reality Tech|St. Petersburg|110000|Unity3D, AR/VR frameworks|Develop augmented/virtual reality apps|3
+41|Robotics Engineer|Robotica Inc|Hialeah|125000|ROS, Python, Robotics|Design and program robots|2
+42|Embedded Systems Engineer|Embedded Solutions|Fort Lauderdale|115000|C/C++, Microcontrollers|Develop embedded systems|4
+43|Cloud Security Specialist|Cloud Secure|Cape Coral|140000|Cloud security, Compliance|Secure cloud infrastructure|2
+44|Digital Marketing Analyst|Analytics Pro|Port St. Lucie|75000|Analytics, Campaign optimization|Analyze marketing performance|5
+45|E-commerce Manager|Online Retail|Pembroke Pines|90000|E-commerce platforms, Online sales|Manage online retail operations|3
+46|Supply Chain Analyst|Logistics Pro|Hollywood|85000|Supply chain, Logistics analysis|Optimize supply chain processes|4
+47|Business Intelligence Analyst|BI Solutions|Gainesville|95000|BI tools, Data warehousing|Create business intelligence reports|3
+48|IT Consultant|Tech Consulting|Coral Springs|110000|IT strategy, Consulting|Provide technology consulting|4
+49|Enterprise Architect|Enterprise Solutions|Miami Gardens|170000|Enterprise architecture, Strategy|Design enterprise-level solutions|1
+50|Chief Technology Officer|Tech Leadership|Miramar|200000|Technology leadership, Strategy|Lead technology vision and strategy|11|cse|sabur bai|changaw|2.00||3.5+ cgp and have 2 years experience of programming.|1025496719
