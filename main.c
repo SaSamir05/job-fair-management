@@ -36,11 +36,11 @@ int main() {
 }
 
 void admin_panel() {
-    system("gcc admin.c -o admin && ./admin");
+    system("gcc admin.c -o admin && admin.exe");
 }
 
 void user_panel() {
-    system("gcc user.c -o user && ./user");
+    system("gcc user.c -o user && user.exe");
 }
 
 void initialize_files() {
